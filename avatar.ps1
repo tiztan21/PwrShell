@@ -1,0 +1,1 @@
+Copy "\\mrqzad\sysvol\mrqzad.com\avatar\user.png" "c:\ProgramData\Microsoft\User Account Pictures"
